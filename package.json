@@ -1,7 +1,7 @@
 {
   "scripts": {
     "start": "webpack serve --mode development --open",
-    "build": "webpack --config webpack.config.ts --mode production"
+    "build": "webpack --config webpack.config.js --mode production"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
